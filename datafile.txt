@@ -1,0 +1,61 @@
+V, Q
+V, W
+V, E
+V, R
+V, T
+V, Y
+V, Z
+V, X
+V, C
+V, V
+V, B
+V, A
+V, S
+V, D
+V, F
+V, G
+E, Q, W, 9
+E, Q, E, 9
+E, C, R, 8
+E, T, G, 1
+E, Q, R, 9
+E, R, V, 1
+E, R, D, 2
+E, R, A, 3
+E, T, F, 8
+E, T, D, 9
+E, T, S, 3
+E, T, A, 2
+E, T, V, 8
+E, Y, A, 8
+E, Z, Q, 4
+E, X, S, 8
+E, C, R, 6
+E, Q, T, 9
+E, Q, Y, 9
+E, V, Z, 2
+E, Q, A, 9
+E, B, V, 6
+E, Q, S, 9
+E, A, D, 8
+E, Q, D, 9
+E, S, V, 2
+E, Q, F, 9
+E, D, W, 9
+E, F, C, 1
+E, G, D, 2
+E, Q, G, 9
+E, Y, S, 9
+E, Q, Z, 9
+E, Z, A, 4
+E, X, W, 8
+E, C, D, 1
+E, V, F, 2
+E, B, F, 2
+E, Q, X, 9
+E, A, E, 9
+E, A, W, 1
+E, Z, X, 2
+E, Q, X, 3
+E, Q, C, 7
+E, Q, V, 7
